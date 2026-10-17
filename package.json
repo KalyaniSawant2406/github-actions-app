@@ -1,0 +1,10 @@
+{
+"name": "github-actions-app",
+"version": "1.0.0",
+"description": "Node.js application for GitHub Actions CI/CD experiment",
+"main": "app.js",
+"scripts": {
+"test": "node test.js",
+"build": "node build.js"
+}
+}
